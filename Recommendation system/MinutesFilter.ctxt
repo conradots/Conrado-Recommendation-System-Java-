@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MinutesFilter
+comment0.text=\n\ Filter\ by\ minutes.\ Only\ movies\ whose\ running\ time\ is\ at\ least\ a\ specific\ amount\ of\ time\ are\ chosen.\n\ \n\ @author\ Ginny\ Dang\n\ @version\ July\ 18th,\ 2022\n
+comment1.params=min\ max
+comment1.target=MinutesFilter(int,\ int)
+comment2.params=id
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GenreFilter
+comment0.text=\n\ Filter\ by\ genre.\ Only\ movies\ of\ a\ specific\ genre\ are\ chosen\n\ \n\ @author\ Ginny\ Dang\n\ @version\ July\ 18th,\ 2022\n
+comment1.params=genre
+comment1.target=GenreFilter(java.lang.String)
+comment2.params=id
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3
